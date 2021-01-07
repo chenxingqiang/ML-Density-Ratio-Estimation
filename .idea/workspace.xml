@@ -20,24 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="682b226b-2f25-4ab0-a1c4-4433e329843f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/algorithms/Hetero_distributional_subspace_search/LHSS.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/Hetero_distributional_subspace_search/LHSS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/Hetero_distributional_subspace_search/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/Hetero_distributional_subspace_search/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_derivative_estimation/LSLDG.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_derivative_estimation/LSLDG.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_derivative_estimation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_derivative_estimation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_difference_estimation/LSDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_difference_estimation/LSDD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_difference_estimation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_difference_estimation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_ratio_estimation/GM_KLIEP.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_ratio_estimation/GM_KLIEP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_ratio_estimation/KLIEP.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_ratio_estimation/KLIEP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_ratio_estimation/LSIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_ratio_estimation/LSIF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_ratio_estimation/RuLSIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_ratio_estimation/RuLSIF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_ratio_estimation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_ratio_estimation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/density_ratio_estimation/uLSIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/density_ratio_estimation/uLSIF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mutual_information_estimation/LSMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mutual_information_estimation/LSMI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mutual_information_estimation/LSQMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mutual_information_estimation/LSQMI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mutual_information_estimation/MLMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mutual_information_estimation/MLMI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mutual_information_estimation/MPKM.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mutual_information_estimation/MPKM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mutual_information_estimation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mutual_information_estimation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609839227428</updated>
-      <workItem from="1609839228591" duration="2206000" />
+      <workItem from="1609839228591" duration="3442000" />
+      <workItem from="1609848805492" duration="1000" />
     </task>
     <servers />
   </component>
@@ -110,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="221" y="89" key="SettingsEditor" timestamp="1609844291077">
